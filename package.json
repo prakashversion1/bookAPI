@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/prakashversion1/bookAPI/issues"
   },
-  "homepage": "https://github.com/prakashversion1/bookAPI"
+  "homepage": "https://github.com/prakashversion1/bookAPI",
+  "dependencies": {
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-nodemon": "^2.0.3",
+    "mongoose": "^4.0.3"
+  }
 }
